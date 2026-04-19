@@ -362,6 +362,16 @@ It explains the system like a story, from voice input all the way to spoken resp
 
 ## Credits
 
+### Creator
+
+**Made by Amaan Khan**
+
+Designed and built as an ambitious Windows desktop AI assistant experiment, combining voice control, agent routing, local models, cloud reasoning, gesture input, system automation, and a cinematic PyQt6 HUD.
+
+GitHub: [@Rex123-hash](https://github.com/Rex123-hash)
+
+### Built With
+
 Built as a Windows desktop AI assistant experiment using:
 
 - Python
