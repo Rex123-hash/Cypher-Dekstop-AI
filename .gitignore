@@ -1,0 +1,33 @@
+# Secrets and local machine config
+.env
+*.key
+
+# Python cache/build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local runtime data
+tmp/
+data/conversation_history.json
+data/whatsapp_session/
+
+# Generated/manual test audio
+*.wav
+
+# Editor/OS noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

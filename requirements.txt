@@ -1,0 +1,31 @@
+# NEXUS Requirements
+# Install with: pip install -r requirements.txt
+
+# UI
+PyQt6>=6.7.0
+PyQt6-Qt6>=6.7.0
+
+# Voice — STT + wake word (sounddevice already installed via mediapipe)
+faster-whisper>=1.0.3
+
+# Voice — TTS
+edge-tts>=6.1.12
+
+# Gesture
+opencv-python>=4.9.0.80
+mediapipe>=0.10.14
+
+# Browser automation (WhatsApp via OpenClaw / Playwright)
+playwright>=1.44.0
+
+# System monitoring
+psutil>=5.9.8
+gputil>=1.4.0
+
+# AI — OpenRouter (primary brain)
+openai>=1.30.0
+httpx>=0.27.0
+
+# Utilities
+python-dotenv>=1.0.1
+numpy>=1.26.4
